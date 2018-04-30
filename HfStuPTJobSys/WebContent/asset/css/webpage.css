@@ -1,0 +1,230 @@
+body{
+	list-style: none;
+}
+
+li{
+	list-style: none;
+	text-align: center;
+}
+#table01 td{
+	
+	font-family: "΢���ź�";
+	color:gray;
+	
+}
+.left_login{
+	
+	border: 1px solid rgb(243,152,0);
+	margin-top: 200px;
+	position: fixed;
+	margin-left: 50px;
+	width: 130px;
+	height: 120px;
+	-moz-border-radius:10px;  
+    -webkit-border-radius:10px;  
+    border-radius:10px;  
+    z-index: 9999;
+}
+#left_login li{
+	margin-left: -40px;
+	list-style: none;
+	height: 40px;
+	border-bottom: 1px solid gainsboro;
+	text-align: center;
+	line-height: 40px;
+}
+.webpage_top{
+	margin-top: -6px;
+	height: 36px;
+	width: 100%;
+	background-color: rgb(245,245,245);
+}
+.webpage_top_center{
+	border: 0px solid black;
+	height: 100%;
+	width: 73%;
+	margin: 0 auto;
+}
+.webpage_top_center_left{
+	margin-left: 20px;
+	border: 0px solid black;
+	height: 100%;
+	float: left;
+	line-height: 36px;
+}
+.webpage_top_center_right{
+	border: 0px solid black;
+	height: 100%;
+	float: right;
+	line-height: 36px;
+}
+#webpage_top_center_right a{
+	
+	margin-right: 20px;
+	color: gray;
+	font-size: 1em;
+	text-decoration: none;
+}
+#webpage_top_center_right a:hover{
+	text-decoration:underline;
+}
+.webpage_center_pic img{
+	width: 1050px;
+	height: 108px;
+}
+.webpage_center{
+	border: 0px solid black;
+	width: 73%;
+	margin: 0 auto;
+}
+.webpage_center_search{
+	border: 0px solid black;
+	width: 100%;
+	height: 100px;
+	margin: 0 auto;
+}
+.webpage_center_search_left{
+	float: left;
+	line-height:100px;
+	border: 0px solid black;
+	height: 100px;
+}
+.webpage_center_search_center{
+	border: 0px solid black;
+	margin-left: 6px;
+	margin-top: 35px;
+	line-height:100px ;
+	float: left;
+	width: 500px;
+	height: 100px;
+}
+#webpage_center_search_center li{
+	border-left: 1px solid darkgray;
+	width: 140px;
+	height: 40px;
+	line-height: 40px;
+	margin-top: 30px;
+}
+.webpage_center_search_right{
+	border: 0px solid black;
+	float: right;
+	line-height:100px;
+	height: 100px;
+	font-family: "微软雅黑";
+}
+.webpage_center_pic{
+	border: 0px solid black;
+	height: 110px;
+}
+.webpage_center_citywork{
+	border: 0px solid black;
+	height: 40px;
+	line-height: 40px;
+}
+.webpage_center_citywork_left{
+	border: 1px solid darkgray;
+	width: 18%;
+	height: 40px;
+	float: left;
+	line-height: 40px;
+	text-align: center;
+}
+.webpage_center_citywork_right{
+	border: 1px solid darkgray;
+	width: 82%;
+	height: 40px;
+	float: right;
+	background-color: rgb(247,247,247);
+}
+/* --------------------------------------- */
+.webpage_center_condition{
+	border: 0px solid darkgray;
+	border-top:0px;
+	height: 20px;
+}
+#webpage_center_condition_id li{
+	float: left;
+	margin-left:10px;
+	font-family: "微软雅黑";
+}
+#webpage_center_condition_id a:hover{
+	text-decoration: none;
+}
+
+.webpage_center_condition_leixing{
+	margin-top: 40px;
+	border: 0px solid black;
+	height: 20px;
+}
+.webpage_center_condition_zhonglei{
+	border: 0px solid black;
+	height: 20px;
+	margin-top: 10px;
+}
+.webpage_center_condition_quyu{
+	border: 0px solid black;
+	height: 20px;
+	margin-top: 10px;
+}
+.webpage_center_condition_msg{
+	margin-top: 10px; gvd
+	border: 0px solid black;
+	height: 30px;
+	line-height: 20px;
+}
+#webpage_center_condition_msg button{
+	background-color: white;
+	height: 26px;
+	margin-right: -7px;
+}
+.webpage_center_main{
+	margin-top: 10px;
+	border: 0px solid black;
+	height: 800px;
+}
+.webpage_center_main_left{
+	border-left: 1px solid darkgray;
+	border-right: 1px solid darkgray;
+	float: left;
+	width: 69%;
+	height: 800px;
+}
+#webpage_center_main_left_id td{
+	
+	height: 52px;
+	line-height: 52px;
+}
+#webpage_center_main_left_id img{
+	width: 28px;
+	height: 28px;
+}
+.webpage_center_main_right{
+	border: 1px solid darkgray;
+	float: right;
+	width: 30%;
+	height: 800px;
+}
+.webpage_center_main_right_top{
+	border: 0px solid black;
+	width: 100%;
+	height: 56px;
+	line-height: 56px;
+	background: rgb(255,247,236);
+}
+.webpage_center_main_right_top1{
+	background: rgb(255,249,216);
+}
+#webpage_center_main_right_top1 a{
+	font-size:1.2em;
+	color: rgb(255,153,0);
+}
+#webpage_center_main_right_top1 a:hover{
+	color: blueviolet;
+	
+}
+.webpage_center_main_right_main{
+	border: 0px solid black;
+	width: 100%;
+	height: 130px;
+}
+

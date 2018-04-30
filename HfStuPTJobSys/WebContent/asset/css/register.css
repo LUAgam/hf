@@ -1,0 +1,62 @@
+
+#city select{
+	width: 100px;
+	height: 35px;
+	border: 1px solid gainsboro;
+}
+#registe_temp_temp{
+	margin-left: 0px;
+	margin-top: 6px;
+}
+.register_center{
+	border: 0px solid black;
+	width: 73%;
+	margin: 0 auto;
+	margin-top: 30px;
+}
+.register_center_main{
+	width: 93%;
+	margin: 0 auto;
+}
+.register_center_top{
+	height: 50px;
+	width: 100%;
+	line-height: 50px;
+	margin: 0 auto;
+}
+.register_center_top_1{
+	height: 30px;
+	width: 100%;
+	line-height: 30px;
+	margin: 0 auto;
+	border-bottom: 4px solid rgb(252,150,5);
+}
+#register_center_top_1 li{
+	height: 26px;
+	width: 120px;
+	/*margin-left:-40px ;*/
+	line-height: 26px;
+	background-color: rgb(252,150,5);
+	margin-bottom:10px ;
+}
+.register_center_top_main{
+	width: 100%;
+	margin: 0 auto;
+}
+#register_center_top_main label{
+	width: 100px;
+}
+#register_center_top_main .layui-form-item{
+	margin-bottom: -2px;
+}
+.layui-form-label{
+	width:100px;
+}
+
+.register_center_foot{
+	border: 0px solid black;
+	width: 73%;
+	margin: 0 auto;
+	margin-top: 60px;
+	border-bottom: 2px solid rgb(252,150,5);
+}

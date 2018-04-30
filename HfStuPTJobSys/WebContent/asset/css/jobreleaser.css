@@ -1,0 +1,52 @@
+
+.jobrelease_top_citytitle{
+	width: 73%;
+	margin: 0 auto;
+	height: 30px;
+	line-height: 30px;
+}
+.jobrelease_center{
+	border: 0px solid black;
+	width: 73%;
+	margin: 0 auto;
+}
+.jobrelease_center_title{
+	margin: 0 auto;
+	width: 98%;
+	height: 30px;
+	line-height: 30px;
+	background-color: rgb(237,237,237);
+}
+.jobrelease_center_text{
+	margin: 0 auto;
+	width: 92%;
+	
+}
+.jobrelease_center_form_text_1{
+	margin-top: 20px;
+}
+.jobrelease_center_form_text_1 input{
+	height: 30px;
+	width: 200px;
+}
+.jobrelease_center_form_text_1 select{
+	height: 30px;
+	width: 100px;
+}
+.jobrelease_map{
+	
+	border: 4px solid gainsboro;
+	width: 505px;
+	height: 305px;
+	margin-left: 70px;
+	margin-top: -15px;
+}
+#jobrelease_center_text_btn{
+	margin-top: 20px;
+	margin-left: 110px;
+}
+#jobrelease_center_text_btn button{
+	text-align: center;
+	background-color: rgb(252,171,53);
+	width: 200px;
+}

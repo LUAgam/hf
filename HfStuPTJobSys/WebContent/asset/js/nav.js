@@ -1,0 +1,93 @@
+var navs = [{
+	"title": "管理中心",
+	"icon": "fa-cubes",
+	"spread": true,
+	"children": [{
+		"title": "职位审核",
+		"icon": "&#xe641;",
+		"href": "../page/main"
+	}, {
+		"title": "申诉列表",
+		"icon": "&#xe63c;",
+		"href": "../page/complain"
+	}, {
+		"title": "用户列表",
+		"icon": "&#xe63c;",
+		"href": ""
+	}, {
+		"title": "商家列表",
+		"icon": "&#xe609;",
+		"href": ""
+	}, {
+		"title": "主页信息",
+		"icon": "&#xe60c;",
+		"href": ""
+	}]
+}, {
+	"title": "维护中心",
+	"icon": "fa-cogs",
+	"spread": false,
+	"children": [{
+		"title": "信息维护",
+		"icon": "fa-table",
+		"href": ""
+	}, {
+		"title": "主页轮播图",
+		"icon": "fa-navicon",
+		"href": ""
+	}, {
+		"title": "统计图",
+		"icon": "&#xe62a;",
+		"href": ""
+	}, {
+		"title": "Laytpl+Laypage",
+		"icon": "&#xe628;",
+		"href": ""
+	}]
+}, {
+	"title": "第三方组件",
+	"icon": "",
+	"spread": false,
+	"children": [{
+		"title": "iCheck组件",
+		"icon": "fa-check-square-o",
+		"href": ""
+	}]
+}, {
+	"title": "地址本",
+	"icon": "fa-address-book",
+	"href": "",
+	"spread": false,
+	"children": [{
+		"title": "Github",
+		"icon": "fa-github",
+		"href": ""
+	}, {
+		"title": "QQ",
+		"icon": "fa-qq",
+		"href": ""
+	}, {
+		"title": "Fly社区",
+		"icon": "&#xe609;",
+		"href": ""
+	}, {
+		"title": "新浪微博",
+		"icon": "fa-weibo",
+		"href": ""
+	}]
+}, {
+	"title": "这是一级导航",
+	"icon": "fa-stop-circle",
+	"href": "",
+	"spread": false
+}, {
+	"title": "其他",
+	"icon": "",
+	"href": "#",
+	"spread": false,
+	"children": [{
+		"title": "子窗体中打开选项卡",
+		"icon": "fa-github",
+		"href": ""
+	}]
+}];
